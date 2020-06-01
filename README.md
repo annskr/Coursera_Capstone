@@ -1,2 +1,2 @@
 # Coursera_Capstone
-This repositary is for projects created in IBM Watson Studio
+This repositary is for final project created in IBM Watson Studio
