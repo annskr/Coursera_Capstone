@@ -1,2 +1,2 @@
 # Coursera_Capstone
-This repositary is for the final project created in IBM Watson Studio
+This repository is for the final project created in IBM Watson Studio for IBM Data Science Professional Certificate
